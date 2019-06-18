@@ -1,0 +1,18 @@
+package com.bannusb.firstapp;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class HelloController {
+	
+	@RequestMapping("home")
+//@ResponseBody - it returns the string "home.jsp", but won't show the home.jsp page directly
+//Add Tomcat jasper dependency to pom.xml
+	public String home()
+	{
+		//System.out.println("Hi Manu");
+		return "home";
+	}
+
+}

@@ -1,0 +1,9 @@
+INDEX VERSION 1.131
+C:\Users\WIN10\Documents\workspace-spring-tool-suite-4-4.1.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2283289824.index
+\bootJPA\src\main\java
+C:\Users\WIN10\Documents\workspace-spring-tool-suite-4-4.1.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\199751800.index
+\MyWebApp\src\main\java
+C:\Users\WIN10\Documents\workspace-spring-tool-suite-4-4.1.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\616955914.index
+\bootJPA\src\main\java
+C:\Users\WIN10\Documents\workspace-spring-tool-suite-4-4.1.1.RELEASE\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4094720279.index
+\MyWebApp\src\main\java

@@ -1,0 +1,11 @@
+//Problem A majority element in an array A of size N is an element that appears more than N/2 times in the array.
+//Algortighm:
+1)
+//maintain count for each element with flag
+
+2)
+//add in the hashmap with key as integer and the value as hashset, if repeats incese the count
+// hm.put(1, hs.add(3)); //if hs.add() returns false increment the key value
+//find key which is more than N/2 ,and return the hm.get(key)
+
+3)
